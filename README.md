@@ -97,5 +97,5 @@ The expected impact includes:
 ## Files
 
 - [Project Presentation PDF](ai-linkedin-content-assistant.pdf) — presentation for viewing
-- [Project Presentation PPTX](ai-linkedin-content-assistant.pptx) — editable presentation file
-- [Video Demo](PASTE_VIDEO_LINK_HERE) — automation workflow demonstration
+- [Project Presentation PPTX](ai-linkedin-content-assistant.pptx) — original presentation file
+- [Video Demo](linkedin-content-automation-demo.mp4) — automation workflow demonstration
